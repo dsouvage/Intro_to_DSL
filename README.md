@@ -2,6 +2,8 @@
 
 The Digital Scholarship Lab is an 1100 square foot glass-enclosed space, located on the 200 Level in the Rankin Family Pavilion near the front entrance. It is in close proximity to the Brock Library Makerspace, and adjacent to two Multipurpose Rooms, both also administered by the library.
 
+All students, faculty and community members will have access to our workshops, tutorials and space.
+
 The Digital Scholarship Lab (DSL) will be a hub to explore, discover, create, and play with data and visual tools, methods, and objects, and to contribute that knowledge back to the community.
 
 Note: the DSL is set to open officially on November 25th, however services provided by the DSL are still being offered.
