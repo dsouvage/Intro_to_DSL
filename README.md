@@ -24,7 +24,7 @@ Note: the DSL is set to open officially on November 25th, however services provi
 
 ## **Workshops**
 
-The Brock University Digital Scholarship Lab offers workshops open to anyone interested in computational programming, data management, and geographic information systems (GIS).
+The Brock University Digital Scholarship Lab offers free workshops open to anyone interested in computational programming, data management, and geographic information systems (GIS).
 
 Such workshops include (but are not limited to):
 
