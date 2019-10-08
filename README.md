@@ -22,7 +22,7 @@ Note: the DSL is set to open officially on November 25th, however services provi
 
 ## **What else does the DSL offer?**
 
-**Workshops**
+## **Workshops**
 
 The Brock University Digital Scholarship Lab offers workshops open to anyone interested in computational programming, data management, and geographic information systems (GIS).
 
@@ -63,14 +63,14 @@ For more information:
 [https://brocku.ca/library/dsl/tools-and-tutorials/](https://brocku.ca/library/dsl/tools-and-tutorials/)
 
 
-**Tools**
+## **Tools**
 
 Staff in the DSL are always exploring new and emerging digital tools and software applications that will benefit the Brock community.
 
 Visit our GitHub page for a list of suggested [Desktop Applications](https://brockdsl.github.io/Desktop-Programs/) &amp; [On-line tools](https://brockdsl.github.io/Online-Tools/) – many of which will be available on DSL workstations.
 
 
-**The Lab**
+## **The Lab**
 
 (set to open on November 25th)
 
