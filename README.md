@@ -8,12 +8,12 @@ Note: the DSL is set to open officially on November 25th, however services provi
 
 **What can the DSL help you with?**
 
-- --Managing research data
-- --Developing your digital project
-- --Finding and using data
-- --Visualizing data
-- --Mapping your data (GIS)
-- --Processing your data (HPC)
+- Managing research data
+- Developing your digital project
+- Finding and using data
+- Visualizing data
+- Mapping your data (GIS)
+- Processing your data (HPC)
 
 ## **What else does the DSL offer?**
 
