@@ -1,3 +1,6 @@
+![DSL Logo][dsllogo]
+
+
 ## **What is the DSL?**
 
 The Digital Scholarship Lab is an 1100 square foot glass-enclosed space, located on the 200 Level in the Rankin Family Pavilion near the front entrance. It is in close proximity to the Brock Library Makerspace, and adjacent to two Multipurpose Rooms, both also administered by the library.
