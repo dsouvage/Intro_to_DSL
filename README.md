@@ -4,10 +4,7 @@ The Digital Scholarship Lab is an 1100 square foot glass-enclosed space, located
 
 The Digital Scholarship Lab (DSL) will be a hub to explore, discover, create, and play with data and visual tools, methods, and objects, and to contribute that knowledge back to the community.
 
-Note: the DSL is set to open officially on November 25
-
-# th
-, however services provided by the DSL are still being offered.
+Note: the DSL is set to open officially on November 25th, however services provided by the DSL are still being offered.
 
 **What can the DSL help you with?**
 
@@ -64,10 +61,8 @@ For more information:
 https://brocku.ca/library/dsl/workshops/
 
 
-The lab, set to open on November 25
+The lab, set to open on November 25th offers:
 
-# th
- offers:
 - --Comprehensive Visualization Wall
 - --High Performance Computers and mini-cluster HPC Pack
 - --Professional Software
