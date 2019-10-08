@@ -36,6 +36,9 @@ Such workshops include (but are not limited to):
 - Software Carpentry
 - Data Science
 
+How to register for a workshop:
+https://experiencebu.brocku.ca/organization/dsl/events
+
 For more information:
 
 https://brocku.ca/library/dsl/workshops/
