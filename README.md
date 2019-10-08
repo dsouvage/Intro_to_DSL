@@ -45,16 +45,16 @@ The Brock University Digital Scholarship Lab offers workshops open to anyone int
 
 Such workshops include (but are not limited to):
 
-- --Introduction to GIS
-- --ARCGIS Pro
-- --Command Line Interface
-- --Introduction to git and version control
-- --OpenRefine
-- --PowerBI
-- --Python
-- --R
-- --Software Carpentry
-- --Data Science
+- Introduction to GIS
+- ARCGIS Pro
+- Command Line Interface
+- Introduction to git and version control
+- OpenRefine
+- PowerBI
+- Python
+- R
+- Software Carpentry
+- Data Science
 
 For more information:
 
@@ -63,8 +63,8 @@ https://brocku.ca/library/dsl/workshops/
 
 The lab, set to open on November 25th offers:
 
-- --Comprehensive Visualization Wall
-- --High Performance Computers and mini-cluster HPC Pack
-- --Professional Software
-- --Collaborative Work Spaces
-- --Expert &amp; Friendly Staff
+- Comprehensive Visualization Wall
+- High Performance Computers and mini-cluster HPC Pack
+- Professional Software
+- Collaborative Work Spaces
+- Expert &amp; Friendly Staff
