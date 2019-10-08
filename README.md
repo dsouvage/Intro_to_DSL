@@ -17,28 +17,6 @@ Note: the DSL is set to open officially on November 25th, however services provi
 
 ## **What else does the DSL offer?**
 
-**Tools**
-
-Staff in the DSL are always exploring new and emerging digital tools and software applications that will benefit the Brock community.
-
-Visit our GitHub page for a list of suggested [Desktop Applications](https://brockdsl.github.io/Desktop-Programs/) &amp; [On-line tools](https://brockdsl.github.io/Online-Tools/) – many of which will be available on DSL workstations.
-
-## **Tutorials**
-
-Staff in the DSL are here to support you in getting the most out of these powerful tools. Below is a list of online tutorials we&#39;ve created to get you started.
-
-- [Introduction to Library Visualizations](https://brockdsl.github.io/LibraryDataViz/)
-- [Jupyter Notebooks](https://brockdsl.github.io/Jupyter_Notebooks_Tutorial/)
-- [Omeka S](https://brockdsl.github.io/Omeka-S-Tutorial/)
-- [OpenRefine](https://brockdsl.github.io/Open-Refine-Tutorial/)
-- [PowerBI](https://brockdsl.github.io/PowerBI-Tutorial/)
-- [Tableau-Online](https://brockdsl.github.io/Tableau-Online-Tutorial/)
-- [Voyant](https://brockdsl.github.io/Voyant-Tutorial/)
-
-For more information:
-
-[https://brocku.ca/library/dsl/tools-and-tutorials/](https://brocku.ca/library/dsl/tools-and-tutorials/)
-
 **Workshops**
 
 The Brock University Digital Scholarship Lab offers workshops open to anyone interested in computational programming, data management, and geographic information systems (GIS).
@@ -60,8 +38,32 @@ For more information:
 
 https://brocku.ca/library/dsl/workshops/
 
+## **Tutorials**
 
-The lab, set to open on November 25th offers:
+Staff in the DSL are here to support you in getting the most out of these powerful tools. Below is a list of online tutorials we&#39;ve created to get you started.
+
+- [Introduction to Library Visualizations](https://brockdsl.github.io/LibraryDataViz/)
+- [Jupyter Notebooks](https://brockdsl.github.io/Jupyter_Notebooks_Tutorial/)
+- [Omeka S](https://brockdsl.github.io/Omeka-S-Tutorial/)
+- [OpenRefine](https://brockdsl.github.io/Open-Refine-Tutorial/)
+- [PowerBI](https://brockdsl.github.io/PowerBI-Tutorial/)
+- [Tableau-Online](https://brockdsl.github.io/Tableau-Online-Tutorial/)
+- [Voyant](https://brockdsl.github.io/Voyant-Tutorial/)
+
+For more information:
+
+[https://brocku.ca/library/dsl/tools-and-tutorials/](https://brocku.ca/library/dsl/tools-and-tutorials/)
+
+
+**Tools**
+
+Staff in the DSL are always exploring new and emerging digital tools and software applications that will benefit the Brock community.
+
+Visit our GitHub page for a list of suggested [Desktop Applications](https://brockdsl.github.io/Desktop-Programs/) &amp; [On-line tools](https://brockdsl.github.io/Online-Tools/) – many of which will be available on DSL workstations.
+
+
+**The Lab**
+(set to open on November 25th)
 
 - Comprehensive Visualization Wall
 - High Performance Computers and mini-cluster HPC Pack
