@@ -63,6 +63,7 @@ Visit our GitHub page for a list of suggested [Desktop Applications](https://bro
 
 
 **The Lab**
+
 (set to open on November 25th)
 
 - Comprehensive Visualization Wall
