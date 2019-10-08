@@ -13,6 +13,7 @@ Note: the DSL is set to open officially on November 25th, however services provi
 
 **What can the DSL help you with?**
 
+- Résumé enhancing workshops and tutorials
 - Managing research data
 - Developing your digital project
 - Finding and using data
