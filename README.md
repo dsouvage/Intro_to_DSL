@@ -79,3 +79,7 @@ Visit our GitHub page for a list of suggested [Desktop Applications](https://bro
 - Professional Software
 - Collaborative Work Spaces
 - Expert &amp; Friendly Staff
+
+
+
+[dsllogo]: dsl_logo.png
